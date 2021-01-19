@@ -1,0 +1,865 @@
+{
+	"meta":{
+		"code":200,
+		"requestId":"6001acbcc542016be3ed53fe"
+	},
+	"response":{
+		"suggestedFilters":{
+			"header":"Tap to show:",
+			"filters":[
+				{
+					"name":"Open now",
+					"key":"openNow"
+				}
+			]
+		},
+		"geocode":{
+			"what":"",
+			"where":"amsterdam nl",
+			"center":{
+				"lat":52.37403,
+				"lng":4.88969
+			},
+			"displayString":"Amsterdam, Netherlands",
+			"cc":"NL",
+			"geometry":{
+				"bounds":{
+					"ne":{
+						"lat":52.52059199271734,
+						"lng":5.068538969271151
+					},
+					"sw":{
+						"lat":52.278108009531344,
+						"lng":4.672476002255692
+					}
+				}
+			},
+			"slug":"amsterdam-netherlands",
+			"longId":"72057594040687730"
+		},
+		"headerLocation":"Amsterdam",
+		"headerFullLocation":"Amsterdam",
+		"headerLocationGranularity":"city",
+		"query":"soccer",
+		"totalResults":28,
+		"suggestedBounds":{
+			"ne":{
+				"lat":52.39423103066271,
+				"lng":4.967848842379409
+			},
+			"sw":{
+				"lat":52.30903456023769,
+				"lng":4.819575073417491
+			}
+		},
+		"groups":[
+			{
+				"type":"Recommended Places",
+				"name":"recommended",
+				"items":[
+					{
+						"reasons":{
+							"count":0,
+							"items":[
+								{
+									"summary":"This spot is popular",
+									"type":"general",
+									"reasonName":"globalInteractionReason"
+								}
+							]
+						},
+						"venue":{
+							"id":"4a65dcb5f964a520a7c71fe3",
+							"name":"Johan Cruijf Arena (Johan Cruijff Arena)",
+							"contact":{
+
+							},
+							"location":{
+								"address":"Arena Boulevard 1",
+								"lat":52.3142770338014,
+								"lng":4.941766262054443,
+								"labeledLatLngs":[
+									{
+										"label":"display",
+										"lat":52.3142770338014,
+										"lng":4.941766262054443
+									}
+								],
+								"postalCode":"1101 AX",
+								"cc":"NL",
+								"city":"Amsterdam",
+								"state":"Noord-Holland",
+								"country":"Nederland",
+								"formattedAddress":[
+									"Arena Boulevard 1",
+									"1101 AX Amsterdam",
+									"Nederland"
+								]
+							},
+							"categories":[
+								{
+									"id":"4bf58dd8d48988d188941735",
+									"name":"Soccer Stadium",
+									"pluralName":"Soccer Stadiums",
+									"shortName":"Soccer",
+									"icon":{
+										"prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/stadium_soccer_",
+										"suffix":".png"
+									},
+									"primary":true
+								}
+							],
+							"verified":true,
+							"stats":{
+								"tipCount":0,
+								"usersCount":0,
+								"checkinsCount":0,
+								"visitsCount":0
+							},
+							"beenHere":{
+								"count":0,
+								"lastCheckinExpiredAt":0,
+								"marked":false,
+								"unconfirmedCount":0
+							},
+							"photos":{
+								"count":0,
+								"groups":[
+
+								]
+							},
+							"hereNow":{
+								"count":0,
+								"summary":"Nobody here",
+								"groups":[
+
+								]
+							}
+						},
+						"referralId":"e-0-4a65dcb5f964a520a7c71fe3-0"
+					},
+					{
+						"reasons":{
+							"count":0,
+							"items":[
+								{
+									"summary":"This spot is popular",
+									"type":"general",
+									"reasonName":"globalInteractionReason"
+								}
+							]
+						},
+						"venue":{
+							"id":"5156d20ae4b086af62a38065",
+							"name":"ArenA Stadium Tour",
+							"contact":{
+
+							},
+							"location":{
+								"address":"ArenA Boulevard 1",
+								"crossStreet":"Johan Cruijf Arena",
+								"lat":52.31362445367549,
+								"lng":4.940328664911932,
+								"labeledLatLngs":[
+									{
+										"label":"display",
+										"lat":52.31362445367549,
+										"lng":4.940328664911932
+									}
+								],
+								"postalCode":"1100 DL",
+								"cc":"NL",
+								"neighborhood":"Zuidoost",
+								"country":"Nederland",
+								"formattedAddress":[
+									"ArenA Boulevard 1 (Johan Cruijf Arena)",
+									"1100 DL",
+									"Nederland"
+								]
+							},
+							"categories":[
+								{
+									"id":"4bf58dd8d48988d188941735",
+									"name":"Soccer Stadium",
+									"pluralName":"Soccer Stadiums",
+									"shortName":"Soccer",
+									"icon":{
+										"prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/stadium_soccer_",
+										"suffix":".png"
+									},
+									"primary":true
+								}
+							],
+							"verified":true,
+							"stats":{
+								"tipCount":0,
+								"usersCount":0,
+								"checkinsCount":0,
+								"visitsCount":0
+							},
+							"beenHere":{
+								"count":0,
+								"lastCheckinExpiredAt":0,
+								"marked":false,
+								"unconfirmedCount":0
+							},
+							"photos":{
+								"count":0,
+								"groups":[
+
+								]
+							},
+							"hereNow":{
+								"count":0,
+								"summary":"Nobody here",
+								"groups":[
+
+								]
+							}
+						},
+						"referralId":"e-0-5156d20ae4b086af62a38065-1"
+					},
+					{
+						"reasons":{
+							"count":0,
+							"items":[
+								{
+									"summary":"This spot is popular",
+									"type":"general",
+									"reasonName":"globalInteractionReason"
+								}
+							]
+						},
+						"venue":{
+							"id":"5a33aa1135f9830b3b4b24e9",
+							"name":"Johan Cruijff ArenA - Vak 120",
+							"contact":{
+
+							},
+							"location":{
+								"address":"1 Arena boulevard",
+								"lat":52.314705,
+								"lng":4.942006,
+								"labeledLatLngs":[
+									{
+										"label":"display",
+										"lat":52.314705,
+										"lng":4.942006
+									}
+								],
+								"postalCode":"1101 AX",
+								"cc":"NL",
+								"city":"Amsterdam",
+								"state":"Noord-Holland",
+								"country":"Nederland",
+								"formattedAddress":[
+									"1 Arena boulevard",
+									"1101 AX Amsterdam",
+									"Nederland"
+								]
+							},
+							"categories":[
+								{
+									"id":"4bf58dd8d48988d188941735",
+									"name":"Soccer Stadium",
+									"pluralName":"Soccer Stadiums",
+									"shortName":"Soccer",
+									"icon":{
+										"prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/stadium_soccer_",
+										"suffix":".png"
+									},
+									"primary":true
+								}
+							],
+							"verified":false,
+							"stats":{
+								"tipCount":0,
+								"usersCount":0,
+								"checkinsCount":0,
+								"visitsCount":0
+							},
+							"beenHere":{
+								"count":0,
+								"lastCheckinExpiredAt":0,
+								"marked":false,
+								"unconfirmedCount":0
+							},
+							"photos":{
+								"count":0,
+								"groups":[
+
+								]
+							},
+							"hereNow":{
+								"count":0,
+								"summary":"Nobody here",
+								"groups":[
+
+								]
+							}
+						},
+						"referralId":"e-0-5a33aa1135f9830b3b4b24e9-2"
+					},
+					{
+						"reasons":{
+							"count":0,
+							"items":[
+								{
+									"summary":"This spot is popular",
+									"type":"general",
+									"reasonName":"globalInteractionReason"
+								}
+							]
+						},
+						"venue":{
+							"id":"4b79a4eaf964a520e9072fe3",
+							"name":"GeuzenMiddenmeer",
+							"contact":{
+
+							},
+							"location":{
+								"address":"Voorlandpad 15",
+								"lat":52.347823379923476,
+								"lng":4.953901947642098,
+								"labeledLatLngs":[
+									{
+										"label":"display",
+										"lat":52.347823379923476,
+										"lng":4.953901947642098
+									}
+								],
+								"postalCode":"1098TZ",
+								"cc":"NL",
+								"city":"Amsterdam",
+								"state":"Noord-Holland",
+								"country":"Nederland",
+								"formattedAddress":[
+									"Voorlandpad 15",
+									"1098TZ Amsterdam",
+									"Nederland"
+								]
+							},
+							"categories":[
+								{
+									"id":"4cce455aebf7b749d5e191f5",
+									"name":"Soccer Field",
+									"pluralName":"Soccer Fields",
+									"shortName":"Soccer Field",
+									"icon":{
+										"prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/stadium_soccer_",
+										"suffix":".png"
+									},
+									"primary":true
+								}
+							],
+							"verified":false,
+							"stats":{
+								"tipCount":0,
+								"usersCount":0,
+								"checkinsCount":0,
+								"visitsCount":0
+							},
+							"beenHere":{
+								"count":0,
+								"lastCheckinExpiredAt":0,
+								"marked":false,
+								"unconfirmedCount":0
+							},
+							"photos":{
+								"count":0,
+								"groups":[
+
+								]
+							},
+							"hereNow":{
+								"count":0,
+								"summary":"Nobody here",
+								"groups":[
+
+								]
+							}
+						},
+						"referralId":"e-0-4b79a4eaf964a520e9072fe3-3"
+					},
+					{
+						"reasons":{
+							"count":0,
+							"items":[
+								{
+									"summary":"This spot is popular",
+									"type":"general",
+									"reasonName":"globalInteractionReason"
+								}
+							]
+						},
+						"venue":{
+							"id":"51f05255498e09b70d418b1e",
+							"name":"Indoor soccer events",
+							"contact":{
+
+							},
+							"location":{
+								"lat":52.39035846382521,
+								"lng":4.826314790188487,
+								"labeledLatLngs":[
+									{
+										"label":"display",
+										"lat":52.39035846382521,
+										"lng":4.826314790188487
+									}
+								],
+								"cc":"NL",
+								"country":"Nederland",
+								"formattedAddress":[
+									"Nederland"
+								]
+							},
+							"categories":[
+								{
+									"id":"4cce455aebf7b749d5e191f5",
+									"name":"Soccer Field",
+									"pluralName":"Soccer Fields",
+									"shortName":"Soccer Field",
+									"icon":{
+										"prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/stadium_soccer_",
+										"suffix":".png"
+									},
+									"primary":true
+								}
+							],
+							"verified":false,
+							"stats":{
+								"tipCount":0,
+								"usersCount":0,
+								"checkinsCount":0,
+								"visitsCount":0
+							},
+							"beenHere":{
+								"count":0,
+								"lastCheckinExpiredAt":0,
+								"marked":false,
+								"unconfirmedCount":0
+							},
+							"photos":{
+								"count":0,
+								"groups":[
+
+								]
+							},
+							"hereNow":{
+								"count":0,
+								"summary":"Nobody here",
+								"groups":[
+
+								]
+							}
+						},
+						"referralId":"e-0-51f05255498e09b70d418b1e-4"
+					},
+					{
+						"reasons":{
+							"count":0,
+							"items":[
+								{
+									"summary":"This spot is popular",
+									"type":"general",
+									"reasonName":"globalInteractionReason"
+								}
+							]
+						},
+						"venue":{
+							"id":"51ffe191498e9d6aacb45bf9",
+							"name":"Vak 420\/421 | Amsterdam ArenA",
+							"contact":{
+
+							},
+							"location":{
+								"address":"Amsterdam ArenA",
+								"crossStreet":"ArenA Boulevard 1",
+								"lat":52.3146109535057,
+								"lng":4.942770935523071,
+								"labeledLatLngs":[
+									{
+										"label":"display",
+										"lat":52.3146109535057,
+										"lng":4.942770935523071
+									}
+								],
+								"postalCode":"1101 BA",
+								"cc":"NL",
+								"neighborhood":"Zuidoost",
+								"country":"Nederland",
+								"formattedAddress":[
+									"Amsterdam ArenA (ArenA Boulevard 1)",
+									"1101 BA",
+									"Nederland"
+								]
+							},
+							"categories":[
+								{
+									"id":"4bf58dd8d48988d188941735",
+									"name":"Soccer Stadium",
+									"pluralName":"Soccer Stadiums",
+									"shortName":"Soccer",
+									"icon":{
+										"prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/stadium_soccer_",
+										"suffix":".png"
+									},
+									"primary":true
+								}
+							],
+							"verified":false,
+							"stats":{
+								"tipCount":0,
+								"usersCount":0,
+								"checkinsCount":0,
+								"visitsCount":0
+							},
+							"beenHere":{
+								"count":0,
+								"lastCheckinExpiredAt":0,
+								"marked":false,
+								"unconfirmedCount":0
+							},
+							"photos":{
+								"count":0,
+								"groups":[
+
+								]
+							},
+							"hereNow":{
+								"count":0,
+								"summary":"Nobody here",
+								"groups":[
+
+								]
+							}
+						},
+						"referralId":"e-0-51ffe191498e9d6aacb45bf9-5"
+					},
+					{
+						"reasons":{
+							"count":0,
+							"items":[
+								{
+									"summary":"This spot is popular",
+									"type":"general",
+									"reasonName":"globalInteractionReason"
+								}
+							]
+						},
+						"venue":{
+							"id":"4c5464481b46c9b6ce5685ce",
+							"name":"ABA Lounge",
+							"contact":{
+
+							},
+							"location":{
+								"address":"Amsterdam ArenA",
+								"crossStreet":"ArenA Boulevard 1",
+								"lat":52.31361118805421,
+								"lng":4.940267808423249,
+								"labeledLatLngs":[
+									{
+										"label":"display",
+										"lat":52.31361118805421,
+										"lng":4.940267808423249
+									}
+								],
+								"postalCode":"1101 AX",
+								"cc":"NL",
+								"city":"Amsterdam",
+								"state":"Noord-Holland",
+								"country":"Nederland",
+								"formattedAddress":[
+									"Amsterdam ArenA (ArenA Boulevard 1)",
+									"1101 AX Amsterdam",
+									"Nederland"
+								]
+							},
+							"categories":[
+								{
+									"id":"4bf58dd8d48988d188941735",
+									"name":"Soccer Stadium",
+									"pluralName":"Soccer Stadiums",
+									"shortName":"Soccer",
+									"icon":{
+										"prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/stadium_soccer_",
+										"suffix":".png"
+									},
+									"primary":true
+								}
+							],
+							"verified":false,
+							"stats":{
+								"tipCount":0,
+								"usersCount":0,
+								"checkinsCount":0,
+								"visitsCount":0
+							},
+							"beenHere":{
+								"count":0,
+								"lastCheckinExpiredAt":0,
+								"marked":false,
+								"unconfirmedCount":0
+							},
+							"photos":{
+								"count":0,
+								"groups":[
+
+								]
+							},
+							"hereNow":{
+								"count":0,
+								"summary":"Nobody here",
+								"groups":[
+
+								]
+							}
+						},
+						"referralId":"e-0-4c5464481b46c9b6ce5685ce-6"
+					},
+					{
+						"reasons":{
+							"count":0,
+							"items":[
+								{
+									"summary":"This spot is popular",
+									"type":"general",
+									"reasonName":"globalInteractionReason"
+								}
+							]
+						},
+						"venue":{
+							"id":"4e99add8e5fa393c4e63cc8c",
+							"name":"Ajax Business Lounge",
+							"contact":{
+
+							},
+							"location":{
+								"lat":52.31290712707519,
+								"lng":4.9388484286391945,
+								"labeledLatLngs":[
+									{
+										"label":"display",
+										"lat":52.31290712707519,
+										"lng":4.9388484286391945
+									}
+								],
+								"cc":"NL",
+								"city":"Amsterdam-Zuidoost",
+								"state":"Noord-Holland",
+								"country":"Nederland",
+								"formattedAddress":[
+									"Amsterdam Zuidoost",
+									"Nederland"
+								]
+							},
+							"categories":[
+								{
+									"id":"4bf58dd8d48988d188941735",
+									"name":"Soccer Stadium",
+									"pluralName":"Soccer Stadiums",
+									"shortName":"Soccer",
+									"icon":{
+										"prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/stadium_soccer_",
+										"suffix":".png"
+									},
+									"primary":true
+								}
+							],
+							"verified":true,
+							"stats":{
+								"tipCount":0,
+								"usersCount":0,
+								"checkinsCount":0,
+								"visitsCount":0
+							},
+							"beenHere":{
+								"count":0,
+								"lastCheckinExpiredAt":0,
+								"marked":false,
+								"unconfirmedCount":0
+							},
+							"photos":{
+								"count":0,
+								"groups":[
+
+								]
+							},
+							"hereNow":{
+								"count":0,
+								"summary":"Nobody here",
+								"groups":[
+
+								]
+							}
+						},
+						"referralId":"e-0-4e99add8e5fa393c4e63cc8c-7"
+					},
+					{
+						"reasons":{
+							"count":0,
+							"items":[
+								{
+									"summary":"This spot is popular",
+									"type":"general",
+									"reasonName":"globalInteractionReason"
+								}
+							]
+						},
+						"venue":{
+							"id":"500c196fe4b08ffd5a3c48d1",
+							"name":"Kwakoe Festival",
+							"contact":{
+
+							},
+							"location":{
+								"address":"Bijlmerpark",
+								"lat":52.314199881561784,
+								"lng":4.961109125608412,
+								"labeledLatLngs":[
+									{
+										"label":"display",
+										"lat":52.314199881561784,
+										"lng":4.961109125608412
+									}
+								],
+								"postalCode":"1102",
+								"cc":"NL",
+								"city":"Amsterdam-Zuidoost",
+								"state":"Noord-Holland",
+								"country":"Nederland",
+								"formattedAddress":[
+									"Bijlmerpark",
+									"1102 Amsterdam-Zuidoost",
+									"Nederland"
+								]
+							},
+							"categories":[
+								{
+									"id":"4bf58dd8d48988d163941735",
+									"name":"Park",
+									"pluralName":"Parks",
+									"shortName":"Park",
+									"icon":{
+										"prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/park_",
+										"suffix":".png"
+									},
+									"primary":true
+								}
+							],
+							"verified":false,
+							"stats":{
+								"tipCount":0,
+								"usersCount":0,
+								"checkinsCount":0,
+								"visitsCount":0
+							},
+							"beenHere":{
+								"count":0,
+								"lastCheckinExpiredAt":0,
+								"marked":false,
+								"unconfirmedCount":0
+							},
+							"photos":{
+								"count":0,
+								"groups":[
+
+								]
+							},
+							"hereNow":{
+								"count":0,
+								"summary":"Nobody here",
+								"groups":[
+
+								]
+							}
+						},
+						"referralId":"e-0-500c196fe4b08ffd5a3c48d1-8"
+					},
+					{
+						"reasons":{
+							"count":0,
+							"items":[
+								{
+									"summary":"This spot is popular",
+									"type":"general",
+									"reasonName":"globalInteractionReason"
+								}
+							]
+						},
+						"venue":{
+							"id":"506c8293e4b089b1c8441e43",
+							"name":"Vak 114 | Amsterdam ArenA",
+							"contact":{
+
+							},
+							"location":{
+								"address":"Amsterdam ArenA",
+								"crossStreet":"ArenA Boulevard 1",
+								"lat":52.32688614335659,
+								"lng":4.928568017103921,
+								"labeledLatLngs":[
+									{
+										"label":"display",
+										"lat":52.32688614335659,
+										"lng":4.928568017103921
+									}
+								],
+								"postalCode":"1101 BA",
+								"cc":"NL",
+								"country":"Nederland",
+								"formattedAddress":[
+									"Amsterdam ArenA (ArenA Boulevard 1)",
+									"1101 BA",
+									"Nederland"
+								]
+							},
+							"categories":[
+								{
+									"id":"4bf58dd8d48988d188941735",
+									"name":"Soccer Stadium",
+									"pluralName":"Soccer Stadiums",
+									"shortName":"Soccer",
+									"icon":{
+										"prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/stadium_soccer_",
+										"suffix":".png"
+									},
+									"primary":true
+								}
+							],
+							"verified":false,
+							"stats":{
+								"tipCount":0,
+								"usersCount":0,
+								"checkinsCount":0,
+								"visitsCount":0
+							},
+							"beenHere":{
+								"count":0,
+								"lastCheckinExpiredAt":0,
+								"marked":false,
+								"unconfirmedCount":0
+							},
+							"photos":{
+								"count":0,
+								"groups":[
+
+								]
+							},
+							"hereNow":{
+								"count":0,
+								"summary":"Nobody here",
+								"groups":[
+
+								]
+							}
+						},
+						"referralId":"e-0-506c8293e4b089b1c8441e43-9"
+					}
+				]
+			}
+		]
+	}
+}
